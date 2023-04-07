@@ -1,2 +1,6 @@
 # BB11
-Music Recommendation System using Machine Learning
+PROJECT TITLE:Music Recommendation System using Machine Learning
+TEAM MEMBERS:
+K.SAMSON 19471A0584
+K.KARTHIK 19471A0592
+SK.BAJI   19471A05B6
